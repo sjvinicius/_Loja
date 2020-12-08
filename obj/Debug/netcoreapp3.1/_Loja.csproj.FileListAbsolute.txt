@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\bin\Debug\netcoreapp3.1\_Loja.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Loja\obj\Debug\netcoreapp3.1\_Loja.genruntimeconfig.cache
